@@ -1,0 +1,1 @@
+Rust program deployed to [4gzUPN5R7chLEeDygGwMGXfq1dHMHW6EmnvtYaPmFEKX](https://explorer.solana.com/address/4gzUPN5R7chLEeDygGwMGXfq1dHMHW6EmnvtYaPmFEKX?cluster=devnet) and used by the frotnend at https://gif-portal-starter.vercel.app/.
